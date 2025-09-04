@@ -1,0 +1,14 @@
+{
+  "universal_detection": true,
+  "occupancy_threshold": 0.6,
+  "uncertainty_threshold": 0.3,
+  "uncertainty_time_threshold": 3.0,
+  "frequent_detection_threshold": 10,
+  "frequent_detection_window": 10.0,
+  "tracked_objects": [
+    2,
+    67
+  ],
+  "force_cpu": true,
+  "device": "cpu"
+}
